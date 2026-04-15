@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8787'
+const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
 const ADMIN_STATUS_ENDPOINT = `${API_BASE_URL}/api/admin/status`
 const ADMIN_SETUP_ENDPOINT = `${API_BASE_URL}/api/admin/setup`
 const ADMIN_LOGIN_ENDPOINT = `${API_BASE_URL}/api/admin/login`

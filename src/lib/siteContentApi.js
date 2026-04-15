@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8787'
+const API_BASE_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '')
 const SITE_CONTENT_ENDPOINT = `${API_BASE_URL}/api/site-content`
 const ADMIN_IMAGE_ENDPOINT = `${API_BASE_URL}/api/admin/images`
 
