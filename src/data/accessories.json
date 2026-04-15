@@ -1,0 +1,6417 @@
+[
+  {
+    "id": "head-impel-guard-hat-1",
+    "name": "Impel Guard Hat 1",
+    "slot": "Head",
+    "rarity": "Uncommon",
+    "availability": "Obtainable",
+    "description": "Impel Guard Hat 1 is a head accessory that can be bought at the Impel Shop for 1500 points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "detail": "Bought for 1500 points in Impel Down"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Impel Guard Hat 1",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Impel_Guard_Hat_1",
+      "syncedAt": "2026-04-14T04:19:17.908Z"
+    },
+    "caption": "A hat worn by guards from Impel Down"
+  },
+  {
+    "id": "head-impel-guard-hat-2",
+    "name": "Impel Guard Hat 2",
+    "slot": "Head",
+    "rarity": "Uncommon",
+    "availability": "Obtainable",
+    "description": "Impel Guard Hat 1 is a head accessory that can be bought at the Impel Shop for 1500 points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "detail": "Bought for 1500 points in Impel Down"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Impel Guard Hat 2",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Impel_Guard_Hat_2",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    },
+    "caption": "A hat worn by guards from Impel Down"
+  },
+  {
+    "id": "head-impel-officer-hat",
+    "name": "Impel Officer Hat",
+    "slot": "Head",
+    "rarity": "Uncommon",
+    "availability": "Obtainable",
+    "description": "Impel Officer Hat is an hat accessory that can be bought at the Impel Shop for unknown points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 70,
+        "unit": "flat",
+        "text": "+70 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Impel Officer Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Impel_Officer_Hat",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    }
+  },
+  {
+    "id": "head-star-clown-s-hat",
+    "name": "Star Clown's Hat",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Star Clown's Hat is a head Accessory with a 15% drop chance from the Star Clown at Orange Town.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 50
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Star Clown",
+      "type": "boss",
+      "dropChance": "15%",
+      "by": "Star Clown"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 6,
+        "unit": "flat",
+        "text": "+6 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Star Clown's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Star_Clown's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    },
+    "caption": "A clown hat worn by the Star Clown"
+  },
+  {
+    "id": "head-gorilla-king-crown",
+    "name": "Gorilla King Crown",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Gorilla King Crown is a Head Accessory with a 5% drop chance from the Gorilla King in Sphinx Island.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 60
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Gorilla King",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Gorilla King"
+    },
+    "stats": [
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Gorilla King Crown",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Gorilla_King_Crown",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    },
+    "caption": "\"A crown worn by the Gorilla King\""
+  },
+  {
+    "id": "head-guardian-s-helmet",
+    "name": "Guardian's Helmet",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Guardian Helmet is a head accessory with a 45% drop chance from the Head Guardian at Sky Castle.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 120
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Head Guardian",
+      "type": "boss",
+      "dropChance": "45%",
+      "by": "Head Guardian"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Guardian's Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Guardian's_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    },
+    "caption": "\"Hat worn by the Head Guardian of Skypiea\""
+  },
+  {
+    "id": "head-neptune-s-crown",
+    "name": "Neptune's Crown",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Neptune's Crown is a head accessory with a 5% drop chance from the Neptune boss at Fishman Island which is accessible through the Fishman Cave maze.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 230
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Neptune",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Neptune"
+    },
+    "stats": [
+      {
+        "key": "hpRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Neptune's Crown",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Neptune's_Crown",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    },
+    "caption": "\"A crown worn by Neptune, Fishman crowned king.\""
+  },
+  {
+    "id": "head-cho-s-crown",
+    "name": "Cho's Crown",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Cho's Crown is a head accessory with a 25% drop chance from the Crab King Cho, at the Crab Cave, on the Desert Kingdom.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 375
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Crab King Cho",
+      "type": "boss",
+      "dropChance": "25%",
+      "by": "Crab King"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Cho's Crown",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cho's_Crown",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    }
+  },
+  {
+    "id": "head-ruin-mask",
+    "name": "Ruin Mask",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Ruin Mask is a obtainable head accessory with a 5% drop chance from winning a Karoo Race.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 200
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Winning a Karoo Race",
+      "type": "activity",
+      "dropChance": "5%",
+      "by": "Winning a Karoo Race"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 25,
+        "unit": "flat",
+        "text": "+25 HP",
+        "scaling": null
+      },
+      {
+        "key": "burnReduction",
+        "value": 15,
+        "unit": "percent",
+        "text": "+15% Reduced Burn",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ruin Mask",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ruin_Mask",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    }
+  },
+  {
+    "id": "head-venra-s-hat",
+    "name": "Venra's Hat",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Venra's Hat is a head accessory with 25%-5% drop chance from winning a Karoo Race. It is used by Venra, the Race queue manager, hence the accessory's name.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Winning a Karoo Race",
+      "type": "activity",
+      "dropChance": "5%-25%",
+      "by": "Winning a Karoo Race"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Venra's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Venra's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    }
+  },
+  {
+    "id": "head-horned-pilot",
+    "name": "Horned Pilot",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Horned Pilot is a obtainable head accesory",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Winning a Karoo Race",
+      "type": "activity",
+      "dropChance": "5"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Horned Pilot",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Horned_Pilot",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    },
+    "caption": "\"A hat that resembles a bull, maybe your Karoo is secretly a bull\""
+  },
+  {
+    "id": "head-riding-mohican",
+    "name": "Riding Mohican",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Riding Mohican is a head accessory.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Winning a Karoo Race",
+      "type": "activity",
+      "dropChance": "5%"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Riding Mohican",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Riding_Mohican",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    }
+  },
+  {
+    "id": "head-zombie-knight-s-helmet-1",
+    "name": "Zombie Knight's Helmet 1",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Zombie Knight Helmets are head accessories with a 5% that are dropped by Zombie Knights",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Zombie Knight",
+      "type": "boss",
+      "location": "Thriller Bark",
+      "by": "Zombie Knight"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Zombie Knight's Helmets",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Zombie_Knight's_Helmets",
+      "syncedAt": "2026-04-14T04:19:17.909Z"
+    }
+  },
+  {
+    "id": "head-zombie-knight-s-helmet-2",
+    "name": "Zombie Knight's Helmet 2",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Zombie Knight Helmets are head accessories with a 5% that are dropped by Zombie Knights",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Zombie Knight",
+      "type": "boss",
+      "location": "Thriller Bark",
+      "by": "Zombie Knight"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Zombie Knight's Helmets",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Zombie_Knight's_Helmets",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-zombie-knight-s-helmet-3",
+    "name": "Zombie Knight's Helmet 3",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Zombie Knight Helmets are head accessories with a 5% that are dropped by Zombie Knights",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Zombie Knight",
+      "type": "boss",
+      "location": "Thriller Bark",
+      "by": "Zombie Knight"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Zombie Knight's Helmets",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Zombie_Knight's_Helmets",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-gladiator-s-helmet",
+    "name": "Gladiator's Helmet",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Gladiator's Helmet is a head accessory with a ~5% drop chance from the gladiators in Rose Kingdom's colosseum.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 420
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Gladiator",
+      "type": "boss",
+      "dropChance": "~5%",
+      "location": "Rose kingdom / Colosseum",
+      "by": "Rose Kingdom Gladiators"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 65,
+        "unit": "flat",
+        "text": "+65 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Gladiator's Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Gladiator's_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-moria-s-tophat",
+    "name": "Moria's Tophat",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Moria's Tophat is an head accessory with a 16% drop chance from Moria at Thriller Bark.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Moria",
+      "type": "boss",
+      "dropChance": "16%",
+      "location": "Thriller Bark",
+      "by": "Moria, The Shadow King"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 85,
+        "unit": "flat",
+        "text": "+85 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Moria's Tophat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Moria's_Tophat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-soul-king-s-tophat",
+    "name": "Soul King's Tophat",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Soul King's Tophat is an head accessory that was added in Update 5.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Brook",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Brook (Normal)"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 90,
+        "unit": "flat",
+        "text": "+90 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Soul King's Tophat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Soul_King's_Tophat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-soul-king-s-top-hat-rockstar",
+    "name": "Soul King's Top Hat (Rockstar)",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Soul King's Top Hat (Rockstar) is a head accessory with a ~5% drop chance from Brook (Rockstar)",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by Brook (Rockstar)",
+      "type": "other",
+      "dropChance": "~5%",
+      "by": "Brook (Rockstar)"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 90,
+        "unit": "flat",
+        "text": "+90 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Soul King's Top Hat (Rockstar)",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Soul_King's_Top_Hat_(Rockstar)",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-pica-s-helmet",
+    "name": "Pica's Helmet",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Pica's Helmet is a head accessory with a 5% drop chance from Pica's Boss at Rose Kingdom.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 500
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Pica",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Rose Kingdom",
+      "by": "Pica"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "strengthDmg",
+        "value": 1,
+        "unit": "percent",
+        "text": "+1% Strength DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Pica's Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Pica's_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-law-s-cap",
+    "name": "Law's Cap",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Law's cap is a head accessory with a 5% drop chance from Law, the final boss of the Factory raid.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 550
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Law",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Factory",
+      "by": "Law"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Law's Cap",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Law's_Cap",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"A cap worn by the strong pirate Law\""
+  },
+  {
+    "id": "head-lucy-s-helmet",
+    "name": "Lucy's Helmet",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Lucy's Helmet is a head accessory with a 5% drop from Lucy.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 420
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Lucy",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Rose kingdom / Colosseum",
+      "by": "Lucy"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Lucy's Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Lucy's_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-vera-s-cap",
+    "name": "Vera's Cap",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Vera's Cap is an hat accessory that can be bought at the Impel Shop for unknown points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 70,
+        "unit": "flat",
+        "text": "+70 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Vera's Cap",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Vera's_Cap",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-shiryu-s-hat",
+    "name": "Shiryu's Hat",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Shiryu's Hat is an head accessory that can be bought at the Impel Shop for 825 points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "detail": "Bought for 700 points in Impel Down"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 70,
+        "unit": "flat",
+        "text": "+70 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Shiryu's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Shiryu's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "A hat worn by an infamous Officer from Impel Down"
+  },
+  {
+    "id": "head-han-s-hoodie",
+    "name": "Han's Hoodie",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Han's Hoodie is a head accessory bought at the Impel Shop for unknown points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Han's Hoodie",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Han's_Hoodie",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-ghost-princess-s-crown",
+    "name": "Ghost Princess's Crown",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Ghost Princess Crown is an head accessory that was added in Update 11.86B.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ghost Princess",
+      "type": "boss",
+      "dropChance": "6%",
+      "by": "Ghost Princess"
+    },
+    "stats": [
+      {
+        "key": "hpRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ghost Princess’s Crown",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ghost_Princess’s_Crown",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-juice-empress-s-helmet",
+    "name": "Juice Empress's Helmet",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Juice Empress's Helmet is an head accessory that drops from Juice Empress with 6% chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Juice Empress",
+      "type": "boss",
+      "dropChance": "6%",
+      "location": "Whole Cake Island",
+      "by": "Juice Empress"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 70,
+        "unit": "flat",
+        "text": "+70 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Juice Empress's Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Juice_Empress's_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-big-mama-s-hat",
+    "name": "Big Mama's Hat",
+    "slot": "Head",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Big Mama's Hat is an head accessory that dropped from Big Mama with a 4% chance of dropping.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Big Mama",
+      "type": "boss",
+      "dropChance": "4%",
+      "location": "Whole Cake Island",
+      "by": "Big Mama"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 85,
+        "unit": "flat",
+        "text": "+85 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2.5,
+        "unit": "regen",
+        "text": "+2.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Big Mama's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Big_Mama's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-musashi-s-hat",
+    "name": "Musashi's Hat",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Musashi's Hat is a head accessory with a ~4% drop chance from Musashi at Sashi Island.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 400
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Musashi",
+      "type": "boss",
+      "dropChance": "~4%",
+      "by": "Musashi"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 2,
+        "unit": "percent",
+        "text": "+2% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Musashi’s Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Musashi’s_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-roger-s-hat",
+    "name": "Roger's Hat",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Roger's Hat is a head accessory that is obtainable from the Second Sea event boss, Roger, whom is found on Umi Island, and has a 1% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Roger",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Umi Island",
+      "by": "Roger"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 90,
+        "unit": "flat",
+        "text": "+90 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Roger's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Roger's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-hawk-eye-s-hat",
+    "name": "Hawk Eye's Hat",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Hawk Eye's Hat is a head accessory that is worn and dropped by the Second Sea event boss, Hawk Eye. It has a 1% chance to drop after Hawk Eye's defeat by the player(s).",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Hawk Eye",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Umi Island",
+      "by": "Hawk Eye"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 25,
+        "unit": "flat",
+        "text": "+25 HP",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 10,
+        "unit": "percent",
+        "text": "+10% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Hawk Eye's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hawk_Eye's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-megalodon-helmet",
+    "name": "Megalodon Helmet",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Megalodon Helmet is a helmet accessory, which can be crafted at Blacksmith Sen using the Blueprint dropped by Megalodon, located at Second Sea Rough Waters.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Crafted at Blacksmith Sen",
+      "type": "craft",
+      "dropChance": "0%",
+      "by": "Megalodon"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 10,
+        "unit": "flat",
+        "text": "+10 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "strengthDmg",
+        "value": 2,
+        "unit": "percent",
+        "text": "+2% Strength DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Megalodon Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-sunken-helmet",
+    "name": "Sunken Helmet",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": null,
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by Fishing",
+      "type": "fishing",
+      "dropChance": "1% - 2.5%",
+      "location": "Water (more chance in Rough Waters)",
+      "by": "Fishing"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 20,
+        "unit": "flat",
+        "text": "+20 Extra Stamina",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Sunken Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Sunken_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-angler-s-lantern",
+    "name": "Angler's Lantern",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Angler's Lantern is a Hat accessory crafted with the Anglerfish from Fishing.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Crafted at Blacksmith Sen",
+      "type": "craft",
+      "location": "Blacksmith Sen",
+      "by": "Fishing"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 HP",
+        "scaling": null
+      },
+      {
+        "key": "burnReduction",
+        "value": 50,
+        "unit": "percent",
+        "text": "50% Reduced Burn",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Angler's Lantern",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Angler's_Lantern",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-turtleback-helmet",
+    "name": "Turtleback Helmet",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Turtleback Helmet is a head accessory droped from Juzo the Diamondback at Turtleback Cave with a chance of 1%.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Juzo the Diamondback",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Turtleback Cave",
+      "by": "Juzo the Diamondback"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 65,
+        "unit": "flat",
+        "text": "+65 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 Extra Stamina",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Turtleback Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Turtleback_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-bunny-hoodie",
+    "name": "Bunny Hoodie",
+    "slot": "Head",
+    "rarity": "Uncommon",
+    "availability": "Unobtainable",
+    "description": "Bunny Hoodie is an head accessory that is obtained from the Pink Egg which is a Item with a 0.1%-0.5% chance of being obtained from Elo the Bunny at Elo's Island (Removed Island)",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 100
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Elo",
+      "type": "boss",
+      "dropChance": "0.1-0.5%",
+      "by": "Opening the Pink Egg from Elo The Bunny"
+    },
+    "stats": [
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Bunny Hoodie",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Bunny_Hoodie",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"A bunny hoodie from the 2021 easter event\""
+  },
+  {
+    "id": "head-tall-elf-hat",
+    "name": "Tall Elf Hat",
+    "slot": "Head",
+    "rarity": "Uncommon",
+    "availability": "Unobtainable",
+    "description": "The Tall Elf Hat is an head accessory with a 25% drop chance from Krampus, The Ravager at the Winter Cave. It is earned by opening the Gift of Tall Hat.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Krampus",
+      "type": "boss",
+      "dropChance": "25%",
+      "by": "Krampus, The Ravager"
+    },
+    "stats": [
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Tall Elf Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Tall_Elf_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-elf-hat",
+    "name": "Elf Hat",
+    "slot": "Head",
+    "rarity": "Uncommon",
+    "availability": "Unobtainable",
+    "description": "Elf's Hat was an hat accessory with a 25% drop chance from Santa's Elves at Santa's Lair",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Santa's Elf",
+      "type": "boss",
+      "dropChance": "25%~",
+      "by": "Santa's Elf"
+    },
+    "stats": [
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Elf Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Elf_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"Exclusive hat worn by santa's elfs\""
+  },
+  {
+    "id": "head-santa-s-hat",
+    "name": "Santa's Hat",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Santa's Hat was a head accessory with a 5% drop chance from the Santa at Santa's Lair",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 100
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Santa",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Santa"
+    },
+    "stats": [
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Santa's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Santa's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"Exclusive hat worn by santa\""
+  },
+  {
+    "id": "head-rainbow-halo",
+    "name": "Rainbow Halo",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Rainbow Halo is a head accessory that comes from the Rainbow Egg which is a Item with a 5% Chance item from Elo the Bunny at Elo's Island",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 100
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Elo",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Opening the Rainbow Egg from Elo The Bunny"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Rainbow Halo",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Rainbow_Halo",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"A rainbow halo from the 2021 easter event!\""
+  },
+  {
+    "id": "head-jester-s-hat",
+    "name": "Jester's Hat",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "The Jester's Hat is a head accessory with a 5% drop chance from the Demon Jester at Transylvania, during the Halloween Event 2021. The accessory looks like the jester hat used by the Demon Jester. The hat's color is based on the player's ''primary'' clothing color.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 350
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Demon Jester",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Demon Jester"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "burnReduction",
+        "value": 15,
+        "unit": "percent",
+        "text": "+15% Reduced Burn",
+        "scaling": null
+      },
+      {
+        "key": "freezeReduction",
+        "value": 15,
+        "unit": "percent",
+        "text": "+15% Reduced Freeze",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Jester's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Jester's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "head-love-witch-s-hat",
+    "name": "Love Witch's Hat",
+    "slot": "Head",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Love Witch's Hat is a head accessory that has a 5% drop from one of the Worshipper NPCs",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 275
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Worshipper NPC",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Worshipper NPCs"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Love Witch's Hat",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Love_Witch's_Hat",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"Love Witch's Hat\""
+  },
+  {
+    "id": "head-supreme-giftbox-helmet",
+    "name": "Supreme Giftbox Helmet",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "Supreme Giftbox Helmet is a head accessory droped from White giftbox in Anniversary Dungeon after killing Supreme Giftbox, Rocky",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Opening a White giftbox Dropped by defeating Supreme Giftbox, Rocky",
+      "type": "boss",
+      "by": "Supreme Giftbox, Rocky"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Supreme Giftbox Helmet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Supreme_Giftbox_Helmet",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "A helmet dropped by Supreme Giftbox, Rocky!"
+  },
+  {
+    "id": "head-true-ba-al-s-horns",
+    "name": "True Ba'al's Horns",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "True Ba'al's Horns is a accessory dropped by the True Demon Ba'al boss with a 5% chance of dropping",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating True Demon Ba'al",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "True Demon Ba'al"
+    },
+    "stats": [
+      {
+        "key": "stamina",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 Extra Stamina",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "True Ba'al's Horns",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/True_Ba'al's_Horns",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "A remnant of the True Demon Ba'al's true form"
+  },
+  {
+    "id": "head-true-ba-al-s-snake-head",
+    "name": "True Ba'al's Snake Head",
+    "slot": "Head",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "True Ba'al's Snake Head is a accessory dropped by the True Demon Ba'al Boss with a 1% chance of dropping.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating True Demon Ba'al",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "True Demon Ba'al"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "True Ba'al's Snake Head",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/True_Ba'al's_Snake_Head",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"A remnant of the True Demon Ba'al's true form\""
+  },
+  {
+    "id": "face-bandit-eyepatch",
+    "name": "Bandit Eyepatch",
+    "slot": "Face",
+    "rarity": "Common",
+    "availability": "Obtainable",
+    "description": "==Overview==",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Bandit Boss",
+      "type": "boss",
+      "dropChance": "50%",
+      "by": "Bandit Boss"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Bandit Eyepatch",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Bandit_Eyepatch",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"A eye patch worn by Jahones\""
+  },
+  {
+    "id": "face-donmingo-s-shades",
+    "name": "Donmingo's Shades",
+    "slot": "Face",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Donmingo's Shades is an Epic accessory that can be obtained by the boss Donmingo",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Donmingo",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Rose Kingdom",
+      "by": "Donmingo"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Donmingo's Shades",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Donmingo's_Shades",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"A pair of shades worn by the tyrant Donmingo\""
+  },
+  {
+    "id": "face-radiant-shades",
+    "name": "Radiant Shades",
+    "slot": "Face",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Radiant Shades are an face accessory with a 5% drop chance from Radiant Admiral. A Boss that spawns every 30 Minutes in Marine Base G-1.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Radiant Admiral",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Marine Base G-1",
+      "by": "Radiant Admiral"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Radiant Shades",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Radiant_Shades",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"Shades worn by the Radiant Admiral\""
+  },
+  {
+    "id": "face-star-shades",
+    "name": "Star Shades",
+    "slot": "Face",
+    "rarity": "Uncommon",
+    "availability": "Unobtainable",
+    "description": "The Star Shades are an face accessory with a 25% drop chance from Elo The Bunny at Elo's Island. They could be earned by hatching the Golden Egg.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 100
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Elo",
+      "type": "boss",
+      "dropChance": "25%",
+      "by": "Elo The Bunny"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Star Shades",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Star_Shades",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"Cool star shades from 2021 easter event!\""
+  },
+  {
+    "id": "face-anniversary-shades",
+    "name": "Anniversary Shades",
+    "slot": "Face",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "The Anniversary Shades are a celebrative face accessory found inside Yellowish Green Gifts, on the \"GPO\" island, during the 1 Year Anniversary Event.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Opening a Yellowish Green gift at GPO (Island) 2021",
+      "type": "event",
+      "location": "GPO (Island)",
+      "by": "Yellowish Green Gifts"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Anniversary Shades",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Anniversary_Shades",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"1 year anniversary Shades!\""
+  },
+  {
+    "id": "forehead-cupid-s-headband",
+    "name": "Cupid's Headband",
+    "slot": "Forehead",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Cupid headband is a forehead accessory with a 5% drop chance from both Cupid Queen and Worshipper NPCs in Cupid's Dungeon.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 275
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Cupid Queen",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Cupid Queen Worshipper NPCs"
+    },
+    "stats": [
+      {
+        "key": "stamina",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Cupid's Headband",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cupid's_Headband",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "\"Cupid headband\""
+  },
+  {
+    "id": "forehead-supreme-giftbox-crown",
+    "name": "Supreme Giftbox Crown",
+    "slot": "Forehead",
+    "rarity": "Epic",
+    "availability": "Unobtainable",
+    "description": "Supreme Giftbox Crown is a forehead accessory droped from White giftbox in Anniversary Dungeon after killing Supreme Giftbox, Rocky",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Supreme Giftbox, Rocky",
+      "type": "boss",
+      "by": "Supreme Giftbox, Rocky"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Supreme Giftbox Crown",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Supreme_Giftbox_Crown",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "A crown dropped by Supreme Giftbox, Rocky!"
+  },
+  {
+    "id": "ear-bat-swarm",
+    "name": "Bat Swarm",
+    "slot": "Ear",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Bat Swarm is a Ear accessory that has a 5% drop rate from Moria at Thriller Bark.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Moria, The Shadow King",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Thriller Bark",
+      "by": "Moria, The Shadow King"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 10,
+        "unit": "flat",
+        "text": "+10 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Bat Swarm",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Bat_Swarm",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "ear-wings-of-leo",
+    "name": "Wings of Leo",
+    "slot": "Ear",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Wings of Leo is a ear accessory with a 5% drop chance from Leo at Cupid's Dungeon.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Leo",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Cupid's Dungeon",
+      "by": "Leo"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 20,
+        "unit": "flat",
+        "text": "+20 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Wings of Leo",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Wings_of_Leo",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "Ear wings worn by Leo"
+  },
+  {
+    "id": "neck-metal-jaw",
+    "name": "Metal Jaw",
+    "slot": "Neck",
+    "rarity": "Common",
+    "availability": "Obtainable",
+    "description": "The metal jaw is an Accessory obtained with a 25% drop chance from killing the boss Axe Hand Logan.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Axe Hand Logan",
+      "type": "boss",
+      "dropChance": "25%",
+      "by": "Axe Hand Logan"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 25,
+        "unit": "flat",
+        "text": "+25 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Metal Jaw",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Metal_Jaw",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "The metal jaw being worn."
+  },
+  {
+    "id": "neck-ice-necklace",
+    "name": "Ice Necklace",
+    "slot": "Neck",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Ice Necklace is a neck accessory that comes from the Hie-Hie Users in Dungeons with a 5% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Hie' user",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Hie-Hie User"
+    },
+    "stats": [
+      {
+        "key": "freezeReduction",
+        "value": 10,
+        "unit": "percent",
+        "text": "+10% Reduced Freeze",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ice Necklace",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ice_Necklace",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "neck-flame-scarf",
+    "name": "Flame Scarf",
+    "slot": "Neck",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Flame Scarf is a neck/mouth accessory that can be obtained by killing Mera-Mera users In Dungeons. Its drop chance is 5%.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Mera' user",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Mera-Mera User"
+    },
+    "stats": [
+      {
+        "key": "burnReduction",
+        "value": 15,
+        "unit": "percent",
+        "text": "+15% Reduced Burn",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Flame Scarf",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Flame_Scarf",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    },
+    "caption": "The Flame Scarf being worn by a player."
+  },
+  {
+    "id": "neck-shark-necklace",
+    "name": "Shark Necklace",
+    "slot": "Neck",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Shark Necklace is a neck accessory with a 5% drop chance from Ryu at Ryu's Palace, on Fishman Island.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 210
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ryu",
+      "type": "boss",
+      "dropChance": "35%",
+      "by": "Ryu"
+    },
+    "stats": [
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Shark Necklace",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Shark_Necklace",
+      "syncedAt": "2026-04-14T04:19:17.910Z"
+    }
+  },
+  {
+    "id": "neck-moria-s-necklace",
+    "name": "Moria's Necklace",
+    "slot": "Neck",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "The Moria Necklace is an neck accessory with a 12% drop chance from Moria at Thriller Bark.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Moria, The Shadow King",
+      "type": "boss",
+      "dropChance": "12%",
+      "location": "Thriller Bark",
+      "by": "Moria, The Shadow King"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Moria's Necklace",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Moria's_Necklace",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "neck-slayer-s-mask",
+    "name": "Slayer's Mask",
+    "slot": "Neck",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Slayer's Mask, also known as Sea Beast Helmet, is a neck accessory with a 1% drop chance from Sea Serpents at Rough Waters.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 300
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Sea Serpent",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "Sea Serpent"
+    },
+    "stats": [
+      {
+        "key": "reducedDmg",
+        "value": 5,
+        "unit": "percent",
+        "text": "+0,5 reduced damage every 75 levels.",
+        "scaling": {
+          "stat": "level",
+          "note": "+0,5 reduced damage every 75 levels.\n'\nMax of 5%",
+          "max": 5
+        }
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Slayer's Mask",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Slayer's_Mask",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "\"A mask worn by a powerful beast hunter who was eaten by a sea beast.\""
+  },
+  {
+    "id": "neck-peppermint-scarf",
+    "name": "Peppermint Scarf",
+    "slot": "Neck",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "The Peppermint Scarf is a neck/mouth accessory that can be obtained by killing The Krampus at Winter Cave",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 385
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Krampus",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "The Krampus"
+    },
+    "stats": [
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Peppermint Scarf",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Peppermint_Scarf",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "The Peppermint Scarf is being worn by a player."
+  },
+  {
+    "id": "neck-cupid-s-mask",
+    "name": "Cupid's Mask",
+    "slot": "Neck",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Cupid's Mask is a neck [https://grand-piece-online.fandom.com/wiki/Category:Accessories accessory] with a 5% drop chance from the [https://grand-piece-online.fandom.com/wiki/Worshipper_NPCs Worshipper NPCs] in [https://grand-piece-online.fandom.com/wiki/Cupid%27s_Dungeon Cupid's Dungeons]",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Worshipper NPC",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Worshipper NPCs"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Cupid's Mask",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cupid's_Mask",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "\"A mask worn by Cupid Worshippers\""
+  },
+  {
+    "id": "neck-skeletal-shark-mask",
+    "name": "Skeletal Shark Mask",
+    "slot": "Neck",
+    "rarity": "Epic",
+    "availability": "Unobtainable",
+    "description": "The Skeletal Shark Mask is a neck accessory crafted with the Skeletal Shark Mask Blueprint from Fishing.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Crafted at Blacksmith Sen",
+      "type": "craft",
+      "location": "Blacksmith Sen",
+      "by": "Fishing"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Health Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Skeletal Shark Mask",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Skeletal_Shark_Mask",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "neck-dark-skeletal-shark-mask",
+    "name": "Dark Skeletal Shark Mask",
+    "slot": "Neck",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "The Skeletal Shark Mask is a neck accessory crafted with the Dark Skeletal Shark Mask Blueprint from Fishing.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Crafted at Blacksmith Sen",
+      "type": "craft",
+      "location": "Blacksmith Sen",
+      "by": "Fishing"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 45,
+        "unit": "flat",
+        "text": "+45 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 45,
+        "unit": "flat",
+        "text": "+45 Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Health Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Dark Skeletal Shark Mask",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Dark_Skeletal_Shark_Mask",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "all-seeing-eye-cupid-s-all-seeing-eye",
+    "name": "Cupid's All Seeing Eye",
+    "slot": "All Seeing Eye",
+    "rarity": "Mythical",
+    "availability": "Obtainable",
+    "description": "== Overview == The Cupid's All Seeing Eye is a limited unique slot Accessory (switches with other ASEs).",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 0
+    },
+    "maxStack": 3,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at In-game store for Robux 10.000 during 2026 Valentines event",
+      "type": "shop"
+    },
+    "stats": [],
+    "extraEffects": [
+      "Permanent 2x Logia rates for everything. (Stacks with global 2x Logia weekends.)",
+      "Ability to store your current Devil Fruit inside the All Seeing Eye.",
+      "If you eat another Devil Fruit after storing, you can swap fruits (current fruit gets stored)",
+      "Gains a DF Notifier that shows you when a Devil Fruit spawns. (Hover over the item in the hotbar to see the remaining minutes.)",
+      "Shows which fruit spawned and in which island the fruit spawned.",
+      "100% Legendary Fruit Chest Drop upon winning Duos, Trios or Squads in Battle Royale (even if you were not the MVP).",
+      "Also gains 15% bonus experience from Battle Royale.",
+      "Reduces the cost of the Mythical Fruit Chest from 3,500Robux to 3,000Robux.",
+      "Grants the player the Title \"The All Seeing\".",
+      "Title gives 10% damage buff to all NPCs.",
+      "Improved legendary fruit pity, from 1/100 to 1/40."
+    ],
+    "sourceMeta": {
+      "wikiTitle": "Cupid's All Seeing Eye",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cupid's_All_Seeing_Eye",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "The clairvoyant eye will locate and identify devil fruits as they spawn. Grants the beholder 2x logia rates while in their possession."
+  },
+  {
+    "id": "all-seeing-eye-chromatic-all-seeing-eye",
+    "name": "Chromatic All Seeing Eye",
+    "slot": "All Seeing Eye",
+    "rarity": "Mythical",
+    "availability": "Unobtainable",
+    "description": "The Chromatic All Seeing Eye is a limited unique slot accessory (switches with other ASEs)",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 0
+    },
+    "maxStack": 3,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at In-game store for Robux 10.000 or Obtained at Anniversary Dungeon during 2024 Anni event",
+      "type": "shop"
+    },
+    "stats": [],
+    "extraEffects": [
+      "Permanent 2x Logia rates for everything. (Stacks with global 2x Logia weekends.)",
+      "Ability to store your current Devil Fruit inside the All Seeing Eye.",
+      "If you eat another Devil Fruit after storing, you can swap fruits (current fruit gets stored)",
+      "Gains a DF Notifier that shows you when a Devil Fruit spawns. (Hover over the item in the hotbar to see the remaining minutes.)",
+      "Shows which fruit spawned and in which island the fruit spawned.",
+      "100% Legendary Fruit Chest Drop upon winning Duos, Trios or Squads in Battle Royale (even if you were not the MVP).",
+      "Also gains 15% bonus experience from Battle Royale.",
+      "Reduces the cost of the Mythical Fruit Chest from 3,500Robux to 3,000Robux.",
+      "Grants the player the Title \"The All Seeing\".",
+      "Title gives 10% damage buff to all NPCs.",
+      "Improved legendary fruit pity, from 1/100 to 1/40."
+    ],
+    "sourceMeta": {
+      "wikiTitle": "Chromatic All Seeing Eye",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Chromatic_All_Seeing_Eye",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "all-seeing-eye-all-seeing-egg",
+    "name": "All Seeing Egg",
+    "slot": "All Seeing Eye",
+    "rarity": "Mythical",
+    "availability": "Unobtainable",
+    "description": "The All Seeing Egg is a neck accessory that can be purchased from the In-Game Store for 10,000Robux for a limited time. It is a reskin of the Chromatic All Seeing Eye and All Seeing Eye, with no special visual effects.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 0
+    },
+    "maxStack": 3,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at In-game store for Robux 10.000 during 2025 Easter event",
+      "type": "shop"
+    },
+    "stats": [],
+    "extraEffects": [
+      "Permanent 2x Logia rates for everything. (Stacks with global 2x Logia weekends.)",
+      "Ability to store your current Devil Fruit inside the All Seeing Eye.",
+      "If you eat another Devil Fruit after storing, you can swap fruits (current fruit gets stored)",
+      "Gains a DF Notifier that shows you when a Devil Fruit spawns. (Hover over the item in the hotbar to see the remaining minutes.)",
+      "Shows which fruit spawned and in which island the fruit spawned.",
+      "100% Legendary Fruit Chest Drop upon winning Duos, Trios or Squads in Battle Royale (even if you were not the MVP).",
+      "Also gains 15% bonus experience from Battle Royale.",
+      "Reduces the cost of the Mythical Fruit Chest from 3,500Robux to 3,000Robux.",
+      "Grants the player the Title \"The All Seeing\".",
+      "Title gives 10% damage buff to all NPCs.",
+      "Improved legendary fruit pity, from 1/100 to 1/40."
+    ],
+    "sourceMeta": {
+      "wikiTitle": "Blo All Seeing Eye",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Blo_All_Seeing_Eye",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "all-seeing-eye-all-seeing-ba-al",
+    "name": "All Seeing Ba'al",
+    "slot": "All Seeing Eye",
+    "rarity": "Mythical",
+    "availability": "Unobtainable",
+    "description": "== Overview == The All Seeing Ba'al is a limited unique slot Accessory (switches with other ASEs).",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 0
+    },
+    "maxStack": 3,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at In-game store for Robux 10.000 during 2025 Halloween event",
+      "type": "shop"
+    },
+    "stats": [],
+    "extraEffects": [
+      "Permanent 2x Logia rates for everything. (Stacks with global 2x Logia weekends.)",
+      "Ability to store your current Devil Fruit inside the All Seeing Eye.",
+      "If you eat another Devil Fruit after storing, you can swap fruits (current fruit gets stored)",
+      "Gains a DF Notifier that shows you when a Devil Fruit spawns. (Hover over the item in the hotbar to see the remaining minutes.)",
+      "Shows which fruit spawned and in which island the fruit spawned.",
+      "100% Legendary Fruit Chest Drop upon winning Duos, Trios or Squads in Battle Royale (even if you were not the MVP).",
+      "Also gains 15% bonus experience from Battle Royale.",
+      "Reduces the cost of the Mythical Fruit Chest from 3,500Robux to 3,000Robux.",
+      "Grants the player the Title \"The All Seeing\".",
+      "Title gives 10% damage buff to all NPCs.",
+      "Improved legendary fruit pity, from 1/100 to 1/40."
+    ],
+    "sourceMeta": {
+      "wikiTitle": "All Seeing Ba'al",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Ba'al",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "The clairvoyant eye will locate and identify devil fruits as they spawn. Grants the beholder 2x logia rates while in their possession."
+  },
+  {
+    "id": "all-seeing-eye-all-seeing-holly",
+    "name": "All Seeing Holly",
+    "slot": "All Seeing Eye",
+    "rarity": "Mythical",
+    "availability": "Unobtainable",
+    "description": "== Overview ==",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 0
+    },
+    "maxStack": 3,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at In-game store for Robux 10.000 during 2025 Christmas event",
+      "type": "shop"
+    },
+    "stats": [],
+    "extraEffects": [
+      "Permanent 2x Logia rates for everything. (Stacks with global 2x Logia weekends.)",
+      "Ability to store your current Devil Fruit inside the All Seeing Eye.",
+      "If you eat another Devil Fruit after storing, you can swap fruits (current fruit gets stored)",
+      "Gains a DF Notifier that shows you when a Devil Fruit spawns. (Hover over the item in the hotbar to see the remaining minutes.)",
+      "Shows which fruit spawned and in which island the fruit spawned.",
+      "100% Legendary Fruit Chest Drop upon winning Duos, Trios or Squads in Battle Royale (even if you were not the MVP).",
+      "Also gains 15% bonus experience from Battle Royale.",
+      "Reduces the cost of the Mythical Fruit Chest from 3,500Robux to 3,000Robux.",
+      "Grants the player the Title \"The All Seeing\".",
+      "Title gives 10% damage buff to all NPCs.",
+      "Improved legendary fruit pity, from 1/100 to 1/40."
+    ],
+    "sourceMeta": {
+      "wikiTitle": "All Seeing Holly",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Holly",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "all-seeing-eye-all-seeing-eye",
+    "name": "All Seeing Eye",
+    "slot": "All Seeing Eye",
+    "rarity": "Mythical",
+    "availability": "Unobtainable",
+    "description": "The All Seeing Eye is a unique slot accessory that can be purchased from the In-Game Store for 10,000Robux.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 0
+    },
+    "maxStack": 3,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at In-game store for Robux 10.000 when no seasonal ASE is on (Inactive)",
+      "type": "shop"
+    },
+    "stats": [],
+    "extraEffects": [
+      "Permanent 2x Logia rates for everything. (Stacks with global 2x Logia weekends.)",
+      "Ability to store your current Devil Fruit inside the All Seeing Eye.",
+      "If you eat another Devil Fruit after storing, you can swap fruits (current fruit gets stored)",
+      "Gains a DF Notifier that shows you when a Devil Fruit spawns. (Hover over the item in the hotbar to see the remaining minutes.)",
+      "Shows which fruit spawned and in which island the fruit spawned.",
+      "100% Legendary Fruit Chest Drop upon winning Duos, Trios or Squads in Battle Royale (even if you were not the MVP).",
+      "Also gains 15% bonus experience from Battle Royale.",
+      "Reduces the cost of the Mythical Fruit Chest from 3,500Robux to 3,000Robux.",
+      "Grants the player the Title \"The All Seeing\".",
+      "Title gives 10% damage buff to all NPCs.",
+      "Improved legendary fruit pity, from 1/100 to 1/40."
+    ],
+    "sourceMeta": {
+      "wikiTitle": "All Seeing Eye",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/All_Seeing_Eye",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "The clairvoyant eye will locate and identify devil fruits as they spawn. Grants the beholder 2x logia rates while in their possession."
+  },
+  {
+    "id": "armor-kingdom-guard-outfit",
+    "name": "Kingdom Guard Outfit",
+    "slot": "Armor",
+    "rarity": "Uncommon",
+    "availability": "Obtainable",
+    "description": "The Kingdom Guard Outfit is a armor accessory with a 5% drop rate from Kingdom Guards at the DesertKingdom.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 345
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Kingdom Guard",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Kingdom Guards"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 65,
+        "unit": "flat",
+        "text": "+65 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Kingdom Guard Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Kingdom_Guard_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    },
+    "caption": "\"A fine outfit worn by the guards of the desert kingdom\""
+  },
+  {
+    "id": "armor-zombie-knight-s-armor",
+    "name": "Zombie Knight's Armor",
+    "slot": "Armor",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Zombie Knight Armor is armor with a 5% that are dropped by Zombie Knights",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Zombie Knight",
+      "type": "boss",
+      "location": "Thriller Bark",
+      "by": "Zombie Knight"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 95,
+        "unit": "flat",
+        "text": "+95 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Zombie Knight's Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Zombie_Knight's_Armor",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-zombie-knight-s-armor-bandaged",
+    "name": "Zombie Knight's Armor (Bandaged)",
+    "slot": "Armor",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Zombie Knight Armor is armor with a 5% that are dropped by Zombie Knights",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Zombie Knight",
+      "type": "boss",
+      "location": "Thriller Bark",
+      "by": "Zombie Knight"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 95,
+        "unit": "flat",
+        "text": "+95 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Zombie Knight's Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Zombie_Knight's_Armor",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-star-clown-s-outfit",
+    "name": "Star Clown's Outfit",
+    "slot": "Armor",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Star Clown's Outfit is a armor Accessory with a 15% drop chance from the Star Clown at Orange Town.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 50
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Star Clown",
+      "type": "boss",
+      "dropChance": "15%",
+      "location": "Orange Town",
+      "by": "Star Clown"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 45,
+        "unit": "flat",
+        "text": "+45 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Star Clown's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Star_Clown's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-lucy-s-outfit",
+    "name": "Lucy's Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Lucy's Outfit is a clothing accessory with a 5% drop chance from Lucy at the Rose Kingdom Colosseum.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 420
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Lucy",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Rose kingdom / Colosseum",
+      "by": "Lucy"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 80,
+        "unit": "flat",
+        "text": "+80 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 5,
+        "unit": "regen",
+        "text": "+5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Lucy's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Lucy's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-gladiator-s-armor",
+    "name": "Gladiator's Armor",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Gladiator's Armor is an armor with a 5% drop chance from the Gladiator NPCs at the Rose Kingdom Colosseum.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 500
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Gladiator",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Rose kingdom / Colosseum"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Gladiator's Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Gladiator's_Armor",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-impel-guard-outfit",
+    "name": "Impel Guard Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Impel Guard Outfit Is a armor accessory bought at the Impel Shop for unknown points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Impel Guard Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Impel_Guard_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-impel-officer-outfit",
+    "name": "Impel Officer Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Impel Officer Outfit is an armor accessory that can be bought at the Impel Shop for 1500 points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 110,
+        "unit": "flat",
+        "text": "+110 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Impel Officer Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Impel_Officer_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-han-s-outfit",
+    "name": "Han's Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Han's Outfit is an armor accessory that can be bought at the Impel Shop for unknown points.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Han's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Han's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-ghost-princess-s-outfit",
+    "name": "Ghost Princess's Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Ghost Prince Outfit is a armor accessory that is obtainable from defeating her with a 6% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ghost Princess",
+      "type": "boss",
+      "dropChance": "6%",
+      "location": "Thriller Bark",
+      "by": "Ghost Princess"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ghost Princess’s Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ghost_Princess’s_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-chess-soldier-queen-outfit",
+    "name": "Chess Soldier Queen Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "thumb|Bishop Chess Soldier Outfits are armors Accessory that is obtainable from defeating Chess Soldiers with a ?% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Chess Soldier",
+      "type": "boss",
+      "dropChance": "?%",
+      "location": "Whole Cake Island",
+      "by": "Chess Soldier"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Chess Soldier Outfits",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Chess_Soldier_Outfits",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-chess-soldier-king-outfit",
+    "name": "Chess Soldier King Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "thumb|Bishop Chess Soldier Outfits are armors Accessory that is obtainable from defeating Chess Soldiers with a ?% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Chess Soldier",
+      "type": "boss",
+      "dropChance": "?%",
+      "location": "Whole Cake Island",
+      "by": "Chess Soldier"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Chess Soldier Outfits",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Chess_Soldier_Outfits",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-chess-soldier-rookie-outfit",
+    "name": "Chess Soldier Rookie Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "thumb|Bishop Chess Soldier Outfits are armors Accessory that is obtainable from defeating Chess Soldiers with a ?% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Chess Soldier",
+      "type": "boss",
+      "dropChance": "?%",
+      "location": "Whole Cake Island",
+      "by": "Chess Soldier"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Chess Soldier Outfits",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Chess_Soldier_Outfits",
+      "syncedAt": "2026-04-14T04:19:17.911Z"
+    }
+  },
+  {
+    "id": "armor-chess-soldier-pawn-outfit",
+    "name": "Chess Soldier Pawn Outfit",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "thumb|Bishop Chess Soldier Outfits are armors Accessory that is obtainable from defeating Chess Soldiers with a ?% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Chess Soldier",
+      "type": "boss",
+      "dropChance": "?%",
+      "location": "Whole Cake Island",
+      "by": "Chess Soldier"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Chess Soldier Outfits",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Chess_Soldier_Outfits",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-slayer-s-armor-set",
+    "name": "Slayer's Armor Set",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Slayer's Armor Set, also known as Sea Beast Armor, is a armor accessory with a 1% drop chance from Sea Serpent at First Sea Rough Waters.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 300
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Sea Serpent",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "Sea Serpent"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Slayer's Armor Set",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Slayer's_Armor_Set",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"Armor worn by a previous beast slayer that was devoured by a beast.\""
+  },
+  {
+    "id": "armor-kraken-armor-set",
+    "name": "Kraken Armor Set",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Kraken Armor Set is a armor accessory with a 1% drop chance from the Kraken at Second Sea Rough Waters.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Kraken",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "Kraken"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Kraken Armor Set",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Kraken_Armor_Set",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"Armor forged with the remains of a Kraken\""
+  },
+  {
+    "id": "armor-musashi-s-karuta",
+    "name": "Musashi's Karuta",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Musashi's Karuta is a armor accessory with a ~4% drop chance from Musashi at Second Sea's Sashi Island.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 400
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Musashi",
+      "type": "boss",
+      "dropChance": "~4%",
+      "by": "Musashi"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 3,
+        "unit": "percent",
+        "text": "+3% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Musashi’s Karuta",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Musashi’s_Karuta",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-ryuma-s-outfit",
+    "name": "Ryuma's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Ryuma's Outfit, more commonly referred to as Ryuma Fit, is a armor accessory with a 1% drop chance from Ryuma at Second Sea's Thriller Bark.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ryuma",
+      "type": "boss",
+      "dropChance": "6%",
+      "location": "Thriller Bark",
+      "by": "Ryuma"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 5,
+        "unit": "percent",
+        "text": "+5% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ryuma's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ryuma's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-zorana-s-robe",
+    "name": "Zorana's Robe",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "|dropped_by=Zorana|location=Sakura Strongold|wearing_spot=Outfit|extra_stamina=8|extra_health=+95 HP|stamina_regen=3|sword_dmg_mult=6%|title1=Zorana's Robe}}",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained as Zorana's questline reward",
+      "type": "quest"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 95,
+        "unit": "flat",
+        "text": "+95 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 8,
+        "unit": "flat",
+        "text": "+8 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 6,
+        "unit": "percent",
+        "text": "+6% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Zorana's Robe",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Zorana's_Robe",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-borj-s-armor",
+    "name": "Borj's Armor",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Borj's Armor is a armor accessory with a 1% drop chance from Borj at Thriller Bark.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 450
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Borj",
+      "type": "boss",
+      "dropChance": "6%",
+      "location": "Thriller Bark",
+      "by": "Borj"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 105,
+        "unit": "flat",
+        "text": "+105 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 10,
+        "unit": "flat",
+        "text": "+10 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "strengthDmg",
+        "value": 5,
+        "unit": "percent",
+        "text": "+5% Strength DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Borj’s Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Borj’s_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-pica-s-armor",
+    "name": "Pica's Armor",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Pica's Armor is a armor accessory with a 1% drop chance from Pica at Rose Kingdom.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 345
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Pica",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Rose Kingdom",
+      "by": "Pica"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 130,
+        "unit": "flat",
+        "text": "+130 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "strengthDmg",
+        "value": 5,
+        "unit": "percent",
+        "text": "+5% Strength DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Pica's Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Pica's_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-donmingo-s-outfit",
+    "name": "Donmingo's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Donmingo's Outfit is a clothing accessory with a 12% drop chance from Donmingo.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 500
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Donmingo",
+      "type": "boss",
+      "dropChance": "12%",
+      "location": "Rose Kingdom",
+      "by": "Donmingo"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 200,
+        "unit": "flat",
+        "text": "+200 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Donmingo's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Donmingo's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-law-s-outfit",
+    "name": "Law's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Law's Outfit is a clothing accessory with a 15% drop chance from Law, the final boss of the Factory raid.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 500
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Law",
+      "type": "boss",
+      "dropChance": "15%",
+      "location": "Rose kingdom / Factory, second floor",
+      "by": "Law"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 175,
+        "unit": "flat",
+        "text": "+175 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Law's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Law's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-vera-s-outfit",
+    "name": "Vera's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Category:Accessories",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Vera's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Vera's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"An outfit worn by the officer of Floor 5.\""
+  },
+  {
+    "id": "armor-ashen-outfit",
+    "name": "Ashen Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Ashen's outfit is a legendary accessory drop from ashen along with his weapon, Jitte and his cape. It's stats are 50 hp and 4 health regen. thumb|Ashens outfit as shown in game.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ashen",
+      "type": "boss"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ashen Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ashen_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-megalodon-armor-set",
+    "name": "Megalodon Armor Set",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "|dropped_by=Megalodon |drop_chance=1% |trade_level=345 |wear_spot=Armor |extra_health=+150 HP |health_regen=&nbsp; |stamina_regen=+2 |extra_stamina=17 |reduced_dmg=1% + 0.75% every 100 levels w/ a max of 5.68% at level 625. }}",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Crafted at Blacksmith Sen",
+      "type": "craft"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 150,
+        "unit": "flat",
+        "text": "+150 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Megalodon Armor Set",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Megalodon_Armor_Set",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-hawk-eye-s-outfit",
+    "name": "Hawk Eye's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Hawk Eye's Outfit is a Legendary outfit accessory that is a 1% drop by Hawk Eye, the Second Sea event boss, who can be found on Umi Island.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Hawk Eye",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Umi Island",
+      "by": "Hawk Eye"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 150,
+        "unit": "flat",
+        "text": "+150 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 5,
+        "unit": "percent",
+        "text": "+5% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Hawk Eye's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Hawk_Eye's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-roger-s-outfit",
+    "name": "Roger's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Roger's Outfit is a armor accessory that is obtainable from the Second Sea event boss, Roger, who is found on Umi Island and has a 1% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Roger",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Umi Island",
+      "by": "Roger"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 350,
+        "unit": "flat",
+        "text": "+350 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 5,
+        "unit": "regen",
+        "text": "+5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Roger's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Roger's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-radiant-admiral-s-outfit",
+    "name": "Radiant Admiral's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Radiant Admiral's Outfit is a clothing accessory with a 1% drop chance from Radiant Admiral, A Boss that spawns every 30 Minutes in Marine Base G-1.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Radiant Admiral",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Marine Base G-1",
+      "by": "Radiant Admiral"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 175,
+        "unit": "flat",
+        "text": "+175 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Radiant Admiral's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Radiant_Admiral's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"An outfit worn by the Radiant Admiral\""
+  },
+  {
+    "id": "armor-titan-of-justice-s-outfit",
+    "name": "Titan of Justice´s Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Titan of Justice's Outfit is a armor accessory received through the Titan of Justice's Quest on the island of Marine Base G-1 at the end along side with Titan of justice cape.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by completing Titan of Justice's questline",
+      "type": "quest",
+      "dropChance": "100%",
+      "location": "Marine Base G-1",
+      "by": "Titan of Justice's Quest"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 225,
+        "unit": "flat",
+        "text": "+225 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "strengthDmg",
+        "value": 2.5,
+        "unit": "percent",
+        "text": "+2.5% Strength DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Titan of Justice´s Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Titan_of_Justice´s_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-sunken-armor",
+    "name": "Sunken Armor",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Sunken Armor is a armor accessory dropped from fishing anywhere on the map. The chance of getting the item is 1% - 2.5% but it can be increased by using better fish bait or fishing rod. More likely to get with certain baits/in rough sea.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 375
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by Fishing",
+      "type": "fishing",
+      "dropChance": "1%-2.5%",
+      "location": "Water",
+      "by": "Fishing"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 90,
+        "unit": "flat",
+        "text": "+90 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Sunken Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Sunken_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-turtleback-armor",
+    "name": "Turtleback Armor",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Turtleback Armor is a head accessory droped from Juzo the Diamondback at Turtleback Cave with a chance of 1%.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Juzo the Diamondback",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Turtleback Cave",
+      "by": "Juzo the Diamondback"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 150,
+        "unit": "flat",
+        "text": "+150 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Turtleback Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Turtleback_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-juice-empress-s-outfit",
+    "name": "Juice Empress's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Juice Empress's Outfit is an head accessory that drops from Juice Empress with 3% chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Juice Empress",
+      "type": "boss",
+      "dropChance": "3%",
+      "location": "Whole Cake Island",
+      "by": "Juice Empress"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 175,
+        "unit": "flat",
+        "text": "+175 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Juice Empress's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Juice_Empress's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-mochi-emperor-s-outfit",
+    "name": "Mochi Emperor's Outfit",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": null,
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Mochi Emperor",
+      "type": "boss"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 225,
+        "unit": "flat",
+        "text": "+225 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2.5,
+        "unit": "regen",
+        "text": "+2.5 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 5,
+        "unit": "percent",
+        "text": "+5% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Mochi Emperor's Outfit",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Mochi_Emperor's_Outfit",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-big-mama-s-outfit-female",
+    "name": "Big Mama's Outfit (Female)",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Big Mama's Outfit (Female) is a armor accessory with a 4% drop chance from Big Mama at Whole Cake Island.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Big Mama",
+      "type": "boss",
+      "dropChance": "4%",
+      "by": "Big Mama"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 275,
+        "unit": "flat",
+        "text": "+275 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 40,
+        "unit": "flat",
+        "text": "+40 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2.5,
+        "unit": "regen",
+        "text": "+2.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 4.5,
+        "unit": "regen",
+        "text": "+4.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Big Mama's Outfit (Female)",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Big_Mama's_Outfit_(Female)",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-big-mama-s-outfit-male",
+    "name": "Big Mama's Outfit (Male)",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "frame Big Mama's Outfit (Male) is an armor accessory that can be dropped by Big Mama with a 4% chance to get",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Big Mama",
+      "type": "boss"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 350,
+        "unit": "flat",
+        "text": "+350 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 3.5,
+        "unit": "regen",
+        "text": "+3.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2.5,
+        "unit": "regen",
+        "text": "+2.5 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Big Mama’s Outfit (Male)",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Big_Mama’s_Outfit_(Male)",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-bell-armor",
+    "name": "Bell Armor",
+    "slot": "Armor",
+    "rarity": "Uncommon",
+    "availability": "Unobtainable",
+    "description": "The Bell Armor is an armor accessory.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 345
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Krampus",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "The Krampus"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Bell Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Bell_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"Bell armor??\""
+  },
+  {
+    "id": "armor-resurrected-ba-al-s-outfit",
+    "name": "Resurrected Ba'al's Outfit.",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Unobtainable",
+    "description": "Resurrected Ba'al's Outfit is a clothing accessory with a 5% drop chance from Resurrected Ba'al, the first phase of Resurrected Ba'al",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 420
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Resurrected Ba'al 2023",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Transylvania 2023",
+      "by": "Resurrected Ba'al"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 185,
+        "unit": "flat",
+        "text": "+185 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 5,
+        "unit": "regen",
+        "text": "+5 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Resurrected Ba'al's Outfit.",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Resurrected_Ba'al's_Outfit.",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-resurrected-ba-al-s-outfit-2-0",
+    "name": "Resurrected Ba'al's Outfit 2.0",
+    "slot": "Armor",
+    "rarity": "Epic",
+    "availability": "Unobtainable",
+    "description": "Resurrected Ba'al's Outfit is a clothing accessory with a 5% drop chance from Resurrected Ba'al, the first phase of Resurrected Ba'al",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 420
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Resurrected Ba'al 2025",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Transylvania 2023",
+      "by": "Resurrected Ba'al"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 195,
+        "unit": "flat",
+        "text": "+195 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Resurrected Ba'al's Outfit 2.0",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Resurrected_Ba'al's_Outfit_2.0",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "armor-supreme-giftbox-armor-male",
+    "name": "Supreme Giftbox Armor (Male)",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "Supreme Giftbox Armor is a clothing accessory witch drops from Glowing Pink Giftbox.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by opening a Glowing Pink Giftbox at Supreme Giftbox, Rocky",
+      "type": "event",
+      "by": "Supreme Giftbox, Rocky"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 105,
+        "unit": "flat",
+        "text": "+105 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Supreme Giftbox Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Supreme_Giftbox_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "A armor dropped by Supreme Giftbox, Rocky"
+  },
+  {
+    "id": "armor-supreme-giftbox-armor-female",
+    "name": "Supreme Giftbox Armor (Female)",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "Supreme Giftbox Armor is a clothing accessory witch drops from Glowing Pink Giftbox.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by opening a Glowing Pink Giftbox at Supreme Giftbox, Rocky",
+      "type": "event",
+      "by": "Supreme Giftbox, Rocky"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 105,
+        "unit": "flat",
+        "text": "+105 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Supreme Giftbox Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Supreme_Giftbox_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "A armor dropped by Supreme Giftbox, Rocky"
+  },
+  {
+    "id": "armor-endbringer-armor",
+    "name": "Endbringer Armor",
+    "slot": "Armor",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "=== Stats: === Extra Stamina: 55",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating True Demon Ba'al 2025",
+      "type": "boss"
+    },
+    "stats": [
+      {
+        "key": "stamina",
+        "value": 55,
+        "unit": "flat",
+        "text": "+55 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hp",
+        "value": 150,
+        "unit": "flat",
+        "text": "+150 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Endbringer Armor",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Endbringer_Armor",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-gravito-s-cape",
+    "name": "Gravito's Cape",
+    "slot": "Back",
+    "rarity": "Uncommon",
+    "availability": "Obtainable",
+    "description": "Gravito's Cape is an back accessory with a 5-10% drop chance from Gravito at Gravito's Fort.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 190
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Gravito",
+      "type": "boss",
+      "dropChance": "35%",
+      "by": "Gravito"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Gravito's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Gravito's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-star-clown-s-cape",
+    "name": "Star Clown's Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Star Clown's Cape is a back Accessory with a 15% drop chance from the Star Clown at Orange Town.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 50
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Star Clown",
+      "type": "boss",
+      "dropChance": "15%",
+      "location": "Orange Town",
+      "by": "Star Clown"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 55,
+        "unit": "flat",
+        "text": "+55 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Star Clown's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Star_Clown's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-marine-captain-s-cape",
+    "name": "Marine Captain's Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "''''",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Flame Admiral Zeke",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Flame Admiral Zeke"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Marine Captain's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Marine_Captain's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by marine captains to show their power.\""
+  },
+  {
+    "id": "back-captain-zhen-s-cape",
+    "name": "Captain Zhen's Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "Captain Zhen's Cape, Whitebeard's Cape or WB Cape is a back accessory with a 25% drop chance from Captain Zhen at Marine Base G-1.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 270
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Captain Zhen",
+      "type": "boss",
+      "dropChance": "25%",
+      "by": "Captain Zhen"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Captain Zhen's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Captain_Zhen's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by the infamous Captain Zhen which wields the power that can destroy the world.\""
+  },
+  {
+    "id": "back-pharaoh-akshan-s-cape",
+    "name": "Pharaoh Akshan's Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Pharaoh Akshan's Cape, also referred to as Crocodile Cape or Akshan's Cape, is a back accessory with a 15% drop chance from Pharaoh Akshan at the Pharaoh's Castle, on the Desert Kingdom.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 375
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Pharaoh Akshan",
+      "type": "boss",
+      "dropChance": "15%",
+      "by": "Pharaoh Akshan"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 85,
+        "unit": "flat",
+        "text": "+85 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Pharaoh Akshan’s Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Pharaoh_Akshan’s_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-kraken-cape",
+    "name": "Kraken Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Kraken Cape is a back accessory dropped by the Kraken. It has a 5% drop chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 350
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Kraken",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Kraken"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Kraken Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Kraken_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape made from Kraken material.\""
+  },
+  {
+    "id": "back-ryuma-s-scarf",
+    "name": "Ryuma's Scarf",
+    "slot": "Back",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Ryuma's Scarf is an cape accessory with a 6% drop chance from Ryuma, at Thriller Bark.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ryuma",
+      "type": "boss",
+      "location": "Thriller Bark",
+      "by": "Ryuma"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 80,
+        "unit": "flat",
+        "text": "+80 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 2,
+        "unit": "percent",
+        "text": "+2% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ryuma's Scarf",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ryuma's_Scarf",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-lucy-s-cape",
+    "name": "Lucy's Cape",
+    "slot": "Back",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Lucy's Cape is an tier cape accessory obtainable with a 5% drop chance from the Lucy boss found in Rose Kingdom's Colosseum.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 420
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Lucy",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Rose Kingdom",
+      "by": "Lucy"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Lucy's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Lucy's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by the infamous pirate Lucy\""
+  },
+  {
+    "id": "back-gladiator-s-cape",
+    "name": "Gladiator's Cape",
+    "slot": "Back",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Gladiator's Cape is an tier cape accessory obtainable with a ~5% drop chance from the Gladiators found in Rose Kingdom's Colosseum.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 500
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Gladiator",
+      "type": "boss",
+      "dropChance": "~5%",
+      "location": "Rose Kingdom / Colosseum",
+      "by": "Gladiators"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 60,
+        "unit": "flat",
+        "text": "+60 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1.5,
+        "unit": "regen",
+        "text": "+1.5 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Gladiator's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Gladiator's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-shiryu-s-cape",
+    "name": "Shiryu's Cape",
+    "slot": "Back",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": null,
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Purchasable at Impel Down Raid store",
+      "type": "shop",
+      "location": "Impel Down Raid"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Shiryu's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Shiryu's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by an infamous Officer from Impel Down\""
+  },
+  {
+    "id": "back-ghost-princess-s-capelet",
+    "name": "Ghost Princess's Capelet",
+    "slot": "Back",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Ghost Princess Capelet is a back accessory with a 6% drop chance from Ghost Princess.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ghost Princess",
+      "type": "boss",
+      "dropChance": "6%",
+      "location": "Thriller Bark",
+      "by": "Ghost Princess"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 90,
+        "unit": "flat",
+        "text": "+90 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ghost Princess’s Capelet",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ghost_Princess’s_Capelet",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-juice-empress-s-cape",
+    "name": "Juice Empress's Cape",
+    "slot": "Back",
+    "rarity": "Epic",
+    "availability": "Obtainable",
+    "description": "Juice Empress's Cape is an head accessory that drops from Juice Empress with 6% chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Juice Empress",
+      "type": "boss",
+      "dropChance": "6%",
+      "location": "Whole Cake Island",
+      "by": "Juice Empress"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Juice Empress's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Juice_Empress's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-donmingo-s-cape",
+    "name": "Donmingo's Cape",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Donmingo's Cape is a Back Accessory with a 12% drop chance from Donmingo, a raid boss located in the Rose Kingdom.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Donmingo",
+      "type": "other",
+      "dropChance": "12%",
+      "location": "Rose Kingdom",
+      "by": "Donmingo"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 95,
+        "unit": "flat",
+        "text": "+95 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 15,
+        "unit": "flat",
+        "text": "+15 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Donmingo's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Donmingo's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "A flamingo cape worn by the tyrant Donmingo"
+  },
+  {
+    "id": "back-law-s-cape",
+    "name": "Law's Cape",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Law's Cape is a Back Accessory with a 15% drop chance from Law, the final boss of the Factory raid.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 550
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Law",
+      "type": "boss",
+      "dropChance": "15%",
+      "location": "Rose Kingdom",
+      "by": "Law"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 95,
+        "unit": "flat",
+        "text": "+95 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Law's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Law's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by the strong pirate Law\""
+  },
+  {
+    "id": "back-radiant-admiral-s-cape",
+    "name": "Radiant Admiral's Cape",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Radiant Admiral's Cape is a Legendary Back Accessory with a 1% drop chance from Radiant Admiral. A Boss that spawns every 30 Minutes in Marine Base G-1.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Radiant Admiral",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Marine Base G-1",
+      "by": "Radiant Admiral"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Radiant Admiral's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Radiant_Admiral's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "A cape worn by the Radiant Admiral"
+  },
+  {
+    "id": "back-titan-of-justice-s-cape",
+    "name": "Titan of Justice's Cape",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": null,
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by completing Titan of Justice's Questline",
+      "type": "quest"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 45,
+        "unit": "flat",
+        "text": "+45 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 1,
+        "unit": "regen",
+        "text": "+1 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "strengthDmg",
+        "value": 2.5,
+        "unit": "percent",
+        "text": "+2.5% Strength DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Titan of justice cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Titan_of_justice_cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "A legendary cape worn by the Titan of Justice, representing the weight of duty and power"
+  },
+  {
+    "id": "back-ashen-s-cape",
+    "name": "Ashen's Cape",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Ashen's Cape is a Back Accessories with a 1% Drop Chance From Ashen, a Boss Located at Logue Town.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ashen",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Logue town",
+      "by": "Ashen"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 35,
+        "unit": "flat",
+        "text": "+35 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2.5,
+        "unit": "regen",
+        "text": "+2.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ashen cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ashen_cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "Ashy Cape"
+  },
+  {
+    "id": "back-big-mama-s-cape",
+    "name": "Big Mama's Cape",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Big Mama's Cape is a back accessory that drops from Big Mama with 4% chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Big Mama",
+      "type": "boss",
+      "dropChance": "4%",
+      "location": "Whole Cake Island",
+      "by": "Big Mama"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 80,
+        "unit": "flat",
+        "text": "+80 HP",
+        "scaling": null
+      },
+      {
+        "key": "stamina",
+        "value": 25,
+        "unit": "flat",
+        "text": "+25 Extra Stamina",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2.5,
+        "unit": "regen",
+        "text": "+2.5 HP Regen",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 3,
+        "unit": "regen",
+        "text": "+3 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Big Mama’s Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Big_Mama’s_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-buggy-s-cape",
+    "name": "Buggy's Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Buggy's Cape is a back accessory which had a 10% drop chance from Star Clown at Orange Town.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 50
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Star Clown before boss rework",
+      "type": "boss",
+      "dropChance": "10%",
+      "by": "Star Clown"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Buggy's Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Buggy's_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by the Star Clown\""
+  },
+  {
+    "id": "back-worshiper-s-cape",
+    "name": "Worshiper's Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Worshiper's Cape is a back accessory with a 5% drop from the Worshipper NPCs",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 275
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Worshipper NPCs",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Worshipper NPCs"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Worshipper Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Worshipper_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"A cape worn by the worshippers of the Cupid Queen \""
+  },
+  {
+    "id": "back-ba-als-cape",
+    "name": "Ba'als Cape",
+    "slot": "Back",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Ba'als Cape is a back accessory with a 5% drop chance from Ba'al at Transylvania, during the Halloween Event 2021.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 375
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Ba'al",
+      "type": "boss",
+      "dropChance": "5%",
+      "by": "Ba'al"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 66,
+        "unit": "flat",
+        "text": "+66 HP",
+        "scaling": null
+      },
+      {
+        "key": "burnReduction",
+        "value": 15,
+        "unit": "percent",
+        "text": "+15% Reduced Burn Damage",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Ba'als Cape",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Ba'als_Cape",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "back-frostspire-hood",
+    "name": "Frostspire Hood",
+    "slot": "Back",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "Frostpirehood is a back accessory with a 1% drop chance from giftbox which drops from Flying Santa, during the Christmas 2024.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by opening a gift from Flying Santa 2024 & 2025",
+      "type": "event",
+      "dropChance": "1%",
+      "by": "Flying Santa"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 Extra Health",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Frostspire Hood",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Frostspire_Hood",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    }
+  },
+  {
+    "id": "shoulder-tomoe-drums",
+    "name": "Tomoe Drums",
+    "slot": "Shoulder",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "The Tomoe Drums are a ''special shoulder'' accessory with a 1% drop chance from Thunder God at Golden City, on the Land of the Sky.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 160
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Thunder God",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "Thunder God"
+    },
+    "stats": [
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      },
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Tomoe Drums",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Tomoe_Drums",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"Tomoe drums used by the thunder god to conduct electricity\""
+  },
+  {
+    "id": "shoulder-frosted-gingerbread",
+    "name": "Frosted Gingerbread",
+    "slot": "Shoulder",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "The Frosted Gingerbread is a back accessory with a ?% drop (most likely 5%) chance from Gingerbread man at Gift factory basement.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Gingerbread man",
+      "type": "boss",
+      "dropChance": "?%",
+      "by": "Gingerbread man"
+    },
+    "stats": [
+      {
+        "key": "freezeReduction",
+        "value": 10,
+        "unit": "percent",
+        "text": "+10% Reduced Freeze",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Frosted Gingerbread",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Frosted_Gingerbread",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "Frosted gingerbread being worn by a player."
+  },
+  {
+    "id": "shoulder-wings-of-roses",
+    "name": "Wings of Roses",
+    "slot": "Shoulder",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "Wings of Roses is a back accessory with a 5% drop chance from the Worshipper NPCs at Cupid's Dungeon",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating a Worshipper NPC",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Cupid's Dungeon",
+      "by": "Worshipper NPCs"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Wings of Roses",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Wings_of_Roses",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"Golden wings worn on the back\""
+  },
+  {
+    "id": "shoulder-cupid-queen-s-wings",
+    "name": "Cupid Queen's Wings",
+    "slot": "Shoulder",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "Cupid Wings is a back accessory with a 1% drop chance from the Cupid Queen at Cupid's Dungeon",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Cupid Queen",
+      "type": "boss",
+      "dropChance": "1%",
+      "location": "Cupid's Dungeon",
+      "by": "Cupid Queen"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 75,
+        "unit": "flat",
+        "text": "+75 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Cupid Queen’s Wings",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Cupid_Queen’s_Wings",
+      "syncedAt": "2026-04-14T04:19:17.912Z"
+    },
+    "caption": "\"Wings from the Cupid Queen\""
+  },
+  {
+    "id": "shoulder-exalted-cupid-queen-s-wings",
+    "name": "Exalted Cupid Queen's Wings",
+    "slot": "Shoulder",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "The Exalted Cupid Queen's Wings are a ''special shoulder'' accessory with a 1% drop chance from Cupid Queen at Cupid's Dungeon",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Cupid Queen",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "Cupid Queen"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Exalted Cupid Queen's Wings",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Exalted_Cupid_Queen's_Wings",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    },
+    "caption": "Wings form the Cupid Queen"
+  },
+  {
+    "id": "shoulder-true-ba-al-s-guard",
+    "name": "True Ba'al's Guard",
+    "slot": "Shoulder",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "True Ba'al's Snake Guard is a accessory dropped by the True Demon Ba'al Boss with a 1% chance of dropping.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating True Demon Ba'al",
+      "type": "boss",
+      "dropChance": "1%",
+      "by": "True Demon Ba'al"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      },
+      {
+        "key": "reducedDmg",
+        "value": 10,
+        "unit": "percent",
+        "text": "+10% reduced damage",
+        "scaling": {
+          "stat": "level",
+          "note": "+50 HP\n+10% reduced damage",
+          "max": 10
+        }
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "True Ba'al's Guard",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/True_Ba'al's_Guard",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    },
+    "caption": "\"A remnant of the True Demon Ba'al's true form\""
+  },
+  {
+    "id": "shoulder-endbringer-wings",
+    "name": "Endbringer Wings",
+    "slot": "Shoulder",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": null,
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating True Demon Ba'al",
+      "type": "boss"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 130,
+        "unit": "flat",
+        "text": "+130 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 2,
+        "unit": "regen",
+        "text": "+2 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Endbringer Wings",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Endbringer_Wings",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    }
+  },
+  {
+    "id": "shoulder-blessed-exalted-cupid-queen-s-wings",
+    "name": "Blessed Exalted Cupid Queen's wings",
+    "slot": "Shoulder",
+    "rarity": "Collectable",
+    "availability": "Unobtainable",
+    "description": "The Blessed Exalted Cupid Queen's Wings are a ''special shoulder'' accessory with a 100% or 3% drop chance from Blessed Cupid Queen at Cupid's Dungeon . It is the same as the Exalted Cupid Queen's Wings but with it own visual effects and much rarer.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 425
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Cupid Queen (Blessed)",
+      "type": "boss",
+      "dropChance": "100% or 3%",
+      "by": "Cupid Queen"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 100,
+        "unit": "flat",
+        "text": "+100 HP",
+        "scaling": null
+      },
+      {
+        "key": "staminaRegen",
+        "value": 4,
+        "unit": "regen",
+        "text": "+4 Stamina Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Blessed Exalted Cupid Queen's wings",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Blessed_Exalted_Cupid_Queen's_wings",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    },
+    "caption": "Blessed Wings form the Cupid Queen"
+  },
+  {
+    "id": "waist-lantern-of-hope",
+    "name": "Lantern of Hope",
+    "slot": "Waist",
+    "rarity": "Rare",
+    "availability": "Obtainable",
+    "description": "The Lantern of Hope is a accessory with a 5% Drop from the Pika-Pika user in Dungeons.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Pika user",
+      "type": "boss",
+      "dropChance": "5%",
+      "location": "Dungeons",
+      "by": "Pika-Pika User"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 25,
+        "unit": "flat",
+        "text": "+25 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 0.5,
+        "unit": "regen",
+        "text": "+0.5 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Lantern of Hope",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Lantern_of_Hope",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    }
+  },
+  {
+    "id": "waist-anniversary-lantern",
+    "name": "Anniversary Lantern",
+    "slot": "Waist",
+    "rarity": "Rare",
+    "availability": "Unobtainable",
+    "description": "The Anniversary Lantern is a celebrative waist accessory found inside Purplish Blue Gifts, on the \"GPO\" island, during the 1 Year Anniversary Event.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 250
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Obtained by opening Purplish Blue Gifts",
+      "type": "event",
+      "location": "GPO (Island)",
+      "by": "Purplish Blue Gifts"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 30,
+        "unit": "flat",
+        "text": "+30 HP",
+        "scaling": null
+      },
+      {
+        "key": "hpRegen",
+        "value": 0.5,
+        "unit": "regen",
+        "text": "+0.5 HP Regen",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Anniversary Lantern",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Anniversary_Lantern",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    },
+    "caption": "\"A lantern\""
+  },
+  {
+    "id": "misc-mochi-emperor-s-scarf",
+    "name": "Mochi Emperor's Scarf",
+    "slot": "Misc",
+    "rarity": "Legendary",
+    "availability": "Obtainable",
+    "description": "Mochi Emperor's Scarf is a Accessory with no wearing spot meaning it can be used with any other accessory. It drops from Mochi Emperor with a 4% chance.",
+    "image": null,
+    "requirements": {
+      "tradeLevel": null
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Mochi Emperor",
+      "type": "boss",
+      "dropChance": "4%",
+      "location": "Mirror World",
+      "by": "Mochi Emperor"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 70,
+        "unit": "flat",
+        "text": "+70 HP",
+        "scaling": null
+      },
+      {
+        "key": "swordDmg",
+        "value": 3,
+        "unit": "percent",
+        "text": "+3% Sword DMG",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Mochi Emperor's Scarf",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Mochi_Emperor's_Scarf",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    },
+    "caption": "A scarf infused with the presence of the Mochi Emperor."
+  },
+  {
+    "id": "misc-resurrected-ba-al-s-head",
+    "name": "Resurrected Ba'al's Head",
+    "slot": "Misc",
+    "rarity": "Legendary",
+    "availability": "Unobtainable",
+    "description": "The Head of Resurrected Ba'al is a Cosmetic accessory with a 0.5% drop chance from Resurrected Ba'al at Transylvania (2023)",
+    "image": null,
+    "requirements": {
+      "tradeLevel": 475
+    },
+    "maxStack": 1,
+    "tags": [],
+    "source": {
+      "summary": "Dropped by defeating Resurrected Ba'al",
+      "type": "boss",
+      "dropChance": "0.5%",
+      "location": "Transylvania (2023)",
+      "by": "Resurrected Ba'al"
+    },
+    "stats": [
+      {
+        "key": "hp",
+        "value": 50,
+        "unit": "flat",
+        "text": "+50 HP",
+        "scaling": null
+      }
+    ],
+    "extraEffects": [],
+    "sourceMeta": {
+      "wikiTitle": "Resurrected Ba'al's Head",
+      "wikiUrl": "https://grand-piece-online.fandom.com/wiki/Resurrected_Ba'al's_Head",
+      "syncedAt": "2026-04-14T04:19:17.913Z"
+    }
+  }
+]
