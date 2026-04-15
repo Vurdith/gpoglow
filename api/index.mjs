@@ -1,4 +1,4 @@
 import serverless from 'serverless-http'
-import { app } from '../server/app.mjs'
+import { apiApp } from '../server/api.mjs'
 
-export default serverless(app)
+export default serverless(apiApp)
