@@ -30,8 +30,6 @@ if (!process.env.ADMIN_SESSION_SECRET) {
   console.warn('ADMIN_SESSION_SECRET is not set. Admin sessions will reset when the API restarts.')
 }
 
-await ensureTables()
-
 apiApp.disable('x-powered-by')
 apiApp.set('trust proxy', 1)
 apiApp.use(cors({ origin: true, credentials: true }))
@@ -187,29 +185,6 @@ apiApp.put('/site-content', async (request, response) => {
     response.status(500).json({ error: 'Failed to save site content.' })
   }
 })
-
-async function ensureTables() {
-  await prisma.$executeRawUnsafe(`
-    CREATE TABLE IF NOT EXISTS "SiteContent" (
-      "key" TEXT NOT NULL,
-      "siteConfig" JSONB NOT NULL,
-      "accessoryRecords" JSONB NOT NULL,
-      "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      "updatedAt" TIMESTAMP(3) NOT NULL,
-      CONSTRAINT "SiteContent_pkey" PRIMARY KEY ("key")
-    );
-  `)
-
-  await prisma.$executeRawUnsafe(`
-    CREATE TABLE IF NOT EXISTS "AdminCredential" (
-      "key" TEXT NOT NULL,
-      "passwordHash" TEXT NOT NULL,
-      "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      "updatedAt" TIMESTAMP(3) NOT NULL,
-      CONSTRAINT "AdminCredential_pkey" PRIMARY KEY ("key")
-    );
-  `)
-}
 
 async function getPrimarySiteContent() {
   const existing = await prisma.siteContent.findUnique({ where: { key: 'primary' } })
